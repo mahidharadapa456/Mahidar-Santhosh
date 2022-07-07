@@ -1,0 +1,13 @@
+.form-wrapper {
+    min-height: 60vh;
+    width: 600px;
+    margin: 3rem auto;
+}
+
+.post-item {
+    min-height: 400px;
+}
+
+.post-item .card, .post-item .card-body {
+    height: 100%;
+}
